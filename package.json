@@ -1,0 +1,13 @@
+﻿{
+    "name": "proyecto-gestion",
+    "version": "1.0.0",
+    "description": "Aplicación de gestión de proyectos",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
